@@ -1,4 +1,4 @@
-# Firebase Studio
+# epma-kubewebgen-cli
 
 This is a NextJS starter in Firebase Studio.
 
